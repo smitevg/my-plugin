@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.smitevg.myplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.smitevg.myplugin.MyBundle
 
 class MyApplicationService {
 
